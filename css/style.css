@@ -1,0 +1,29 @@
+* {
+   box-sizing: border-box;
+}
+
+.header {
+   background-image: url(../images/header-bg.jpg);
+   min-height: 793px;
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-position: top center;
+}
+
+.container {
+   max-width: 1170px;
+   padding: 0 15px;
+   margin: 0 auto;
+}
+
+.header__top {}
+
+.logo {}
+
+.menu {}
+
+.header-btn {}
+
+.login {}
+
+.sign-up {}
