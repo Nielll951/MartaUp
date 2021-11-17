@@ -136,4 +136,12 @@ a {
    height: 7px;
    border-radius: 3.5px;
    cursor: pointer;
+   outline: none;
+   display: block;
+   margin: 10px auto;
+}
+
+.header-dots .slick-active button {
+   width: 15px;
+   opacity: 1;
 }
