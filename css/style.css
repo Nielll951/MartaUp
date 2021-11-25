@@ -45,7 +45,7 @@ a {
 }
 
 .menu__list li+li {
-   margin-left: 50px;
+   padding-left: 50px;
 }
 
 .menu__list a {
@@ -63,7 +63,7 @@ a {
 .header-btn {}
 
 .login {
-   padding-right: 44px;
+   margin-right: 44px;
    font-weight: 600;
    color: #fff;
    text-transform: uppercase;
