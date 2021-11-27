@@ -36,10 +36,6 @@ a {
    align-items: center;
 }
 
-.logo {}
-
-.menu {}
-
 .menu__list {
    display: flex;
 }
@@ -60,8 +56,6 @@ a {
    opacity: 1;
 }
 
-.header-btn {}
-
 .login {
    margin-right: 44px;
    font-weight: 600;
@@ -81,8 +75,6 @@ a {
 .header-slider {
    padding-top: 111px;
 }
-
-.header-slider__item {}
 
 .header-slider__item-content {
    display: flex;
@@ -315,10 +307,8 @@ a {
 .footer__inner {
    display: flex;
    justify-content: space-between;
-   align-items: center;
-   height: 61px;
    color: #272727;
-   padding: 0 40px;
+   padding: 20px 40px 17px;
 }
 
 .footer__links a+a {
