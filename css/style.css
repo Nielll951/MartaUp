@@ -61,6 +61,11 @@ a {
    font-weight: 600;
    color: #fff;
    text-transform: uppercase;
+   transition: all .3s;
+}
+
+.login:hover {
+   color: #b1dceb;
 }
 
 .sign-up {
@@ -70,6 +75,11 @@ a {
    background-color: #fff;
    padding: 8px 43px;
    border-radius: 20px;
+   transition: all .3s;
+}
+
+.sign-up:hover {
+   background-color: #b1dceb;
 }
 
 .header-slider {
@@ -105,6 +115,11 @@ a {
    padding: 13px 39px;
    background-color: #FFCA00;
    border-radius: 25px;
+   transition: all .3s;
+}
+
+.header-slider__btn:hover {
+   background-color: #ffe066;
 }
 
 .header-slider__item-images {
@@ -313,4 +328,8 @@ a {
 
 .footer__links a+a {
    margin-left: 20px;
+}
+
+.footer__links a:hover {
+   text-decoration: underline;
 }
